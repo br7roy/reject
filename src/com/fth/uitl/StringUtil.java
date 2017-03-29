@@ -1,17 +1,4 @@
-/*
- * Copyright (C), 2015-2017, 上海睿民互联网科技有限公司
- * Package com.kwxyzk.uitl 
- * FileName: StringUtil.java
- * Author:   Administrator
- * Date:     2017年2月9日 上午9:31:13
- * Description: //模块目的、功能描述      
- * History: //修改记录
- *===============================================================================================
- *   author：          time：                             version：           desc：
- *   Administrator           2017年2月9日上午9:31:13                     1.0                  
- *===============================================================================================
- */
-package com.kwxyzk.uitl;
+package com.fth.uitl;
 
 import java.text.DateFormat;
 import java.text.DecimalFormatSymbols;
@@ -27,7 +14,7 @@ import java.util.Map;
  * 方法：〈方法简述 - 方法描述〉<br>
  * 版本：1.0 <br>
  * 日期：2017年2月9日 <br>
- * 作者：Administrator <br>
+ * 作者：fth <br>
  * 说明：<br>
  */
 public class StringUtil {

@@ -1,17 +1,4 @@
-/*
- * Copyright (C), 2015-2017, 上海睿民互联网科技有限公司
- * Package com.ruim.ifsp.pafyhome.bean.request 
- * FileName: ZTRequest.java
- * Author:   维翔
- * Date:     2017年1月9日 下午4:39:56
- * Description: //模块目的、功能描述      
- * History: //修改记录
- *===============================================================================================
- *   author：          time：                             version：           desc：
- *   维翔           2017年1月9日下午4:39:56                     1.0                  
- *===============================================================================================
- */
-package com.kwxyzk.request;
+package com.fth.request;
 import java.io.Serializable;
 
 /**
@@ -20,7 +7,7 @@ import java.io.Serializable;
  * 方法：〈方法简述 - 方法描述〉<br>
  * 版本：1.0 <br>
  * 日期：2017年1月9日 <br>
- * 作者：维翔 <br>
+ * 作者：fth <br>
  * 说明：<br>
  */
 public class Request implements Serializable {

@@ -1,23 +1,10 @@
-/*
- * Copyright (C), 2015-2017, 上海睿民互联网科技有限公司
- * Package com.kwxyzk.server 
- * FileName: ServerSocket.java
- * Author:   Administrator
- * Date:     2017年2月8日 下午6:02:37
- * Description: //模块目的、功能描述      
- * History: //修改记录
- *===============================================================================================
- *   author：          time：                             version：           desc：
- *   Administrator           2017年2月8日下午6:02:37                     1.0                  
- *===============================================================================================
- */
-package com.kwxyzk.server;
+package com.fth.server;
 
 import com.alibaba.fastjson.JSON;
-import com.kwxyzk.request.Request;
-import com.kwxyzk.response.Response;
-import com.kwxyzk.uitl.DateUtil;
-import com.kwxyzk.uitl.StringUtil;
+import com.fth.request.Request;
+import com.fth.response.Response;
+import com.fth.uitl.DateUtil;
+import com.fth.uitl.StringUtil;
 import com.ruim.ifsp.utils.id.IfspId;
 import com.ruim.ifsp.utils.message.IfspXmlDataUtil;
 
@@ -39,7 +26,7 @@ import java.util.Map;
  * 方法：〈方法简述 - 方法描述〉<br>
  * 版本：1.0 <br>
  * 日期：2017年2月8日 <br>
- * 作者：Administrator <br>
+ * 作者：fth <br>
  * 说明：<br>
  */
 public class Server {

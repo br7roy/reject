@@ -1,17 +1,4 @@
-/*
- * Copyright (C), 2015-2017, 上海睿民互联网科技有限公司
- * Package com.kwxyzk.response 
- * FileName: Response.java
- * Author:   Administrator
- * Date:     2017年2月8日 下午6:02:55
- * Description: //模块目的、功能描述      
- * History: //修改记录
- *===============================================================================================
- *   author：          time：                             version：           desc：
- *   Administrator           2017年2月8日下午6:02:55                     1.0                  
- *===============================================================================================
- */
-package com.kwxyzk.response;
+package com.fth.response;
 
 import com.ruim.ifsp.utils.message.IfspFastJsonUtil;
 import com.ruim.ifsp.utils.message.IfspStringUtil;
@@ -27,7 +14,7 @@ import java.util.Map;
  * 方法：〈方法简述 - 方法描述〉<br>
  * 版本：1.0 <br>
  * 日期：2017年2月8日 <br>
- * 作者：Administrator <br>
+ * 作者：fth <br>
  * 说明：<br>
  */
 public class Response implements Serializable{

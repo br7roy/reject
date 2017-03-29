@@ -3,7 +3,7 @@
 // (powered by Fernflower decompiler)
 //
 
-package com.kwxyzk.uitl;
+package com.fth.uitl;
 
 import com.ruim.ifsp.utils.verify.IfspDataVerifyUtil;
 import java.text.ParseException;
